@@ -1,16 +1,24 @@
-## Hi there 👋
+# Applied AI Engineer
 
-<!--
-**helmitshu/helmitshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I apply AI to real life problems. AI is a force multiplier, and I refuse to waste it on toy demos. Every repo here ships, and every repo here solves something real.
 
-Here are some ideas to get you started:
+## What I believe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most AI work today is decoration. Demos that impress once and help never. I build the opposite. I point AI at problems people actually have, and I ship software that works.
+
+## Featured work
+
+**Mirage.** See through ghost jobs before you apply. Paste a posting or drop in the link, get a score and every red flag in plain English.
+
+**LeadLens.** AI sales intelligence. Researches any company worldwide, detects buying signals, and generates personalized outreach in 90 seconds.
+
+**VoiceFront.** AI voice agent platform with appointment booking. Answers calls, books appointments, never misses a lead.
+
+## Background
+
+Five plus years in industrial IoT, technical operations, and remote diagnostics. Currently a Field Service Systems Analyst at MineSense Technologies.
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/hakimelmitshu)
+- helmitshu@gmail.com
