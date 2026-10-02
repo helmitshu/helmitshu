@@ -19,7 +19,7 @@ Predictive maintenance engine. It watches pump telemetry, learns what normal loo
 
 Validated unsupervised on two public datasets: 98 percent detection rate with a 47.5 cycle median alert lead time on NASA C-MAPSS turbofan data, and AUROC 0.97 on CWRU bearing vibration data.
 
-Live: [dashboard](https://fantastic-miracle-production-65d8.up.railway.app) | [API](https://sentinel-production-ab25.up.railway.app)
+Live: [dashboard](https://fantastic-miracle-production-65d8.up.railway.app) | [API docs](https://sentinel-production-ab25.up.railway.app/docs)
 
 ### VoiceFront
 *Status: core platform live and serving calls, security hardening in progress, not consumer ready yet.*
@@ -40,7 +40,7 @@ AI sales intelligence. Researches any company worldwide, detects buying signals,
 
 ## Proof, not promises
 
-- Services live in production on Railway: VoiceFront, Sentinel, Mirage.
+- Live and clickable right now: [Sentinel dashboard](https://fantastic-miracle-production-65d8.up.railway.app) with [API docs](https://sentinel-production-ab25.up.railway.app/docs), and [Mirage](https://mirage-production-db25.up.railway.app).
 - 24 Vapi voice assistants live and answering calls.
 - Sentinel validated on real datasets: NASA C-MAPSS and CWRU bearing data.
 - AMII AI Pathways Foundations Track, certificate Sep 2026. [View certificate](https://certificates.amii.ca/392fb498-9f95-4595-9a65-df00f3b44b08)
